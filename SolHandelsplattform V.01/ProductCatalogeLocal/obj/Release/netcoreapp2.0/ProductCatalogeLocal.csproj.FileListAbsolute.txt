@@ -1,0 +1,11 @@
+Y:\CloudStation\Master\1. Semester\IEG1\Projekt\SolHandelsplattform V.01\ProductCatalogeLocal\bin\Release\netcoreapp2.0\ProductCatalogeLocal.deps.json
+Y:\CloudStation\Master\1. Semester\IEG1\Projekt\SolHandelsplattform V.01\ProductCatalogeLocal\bin\Release\netcoreapp2.0\ProductCatalogeLocal.runtimeconfig.json
+Y:\CloudStation\Master\1. Semester\IEG1\Projekt\SolHandelsplattform V.01\ProductCatalogeLocal\bin\Release\netcoreapp2.0\ProductCatalogeLocal.runtimeconfig.dev.json
+Y:\CloudStation\Master\1. Semester\IEG1\Projekt\SolHandelsplattform V.01\ProductCatalogeLocal\bin\Release\netcoreapp2.0\ProductCatalogeLocal.dll
+Y:\CloudStation\Master\1. Semester\IEG1\Projekt\SolHandelsplattform V.01\ProductCatalogeLocal\bin\Release\netcoreapp2.0\ProductCatalogeLocal.pdb
+Y:\CloudStation\Master\1. Semester\IEG1\Projekt\SolHandelsplattform V.01\ProductCatalogeLocal\obj\Release\netcoreapp2.0\ProductCatalogeLocal.csprojResolveAssemblyReference.cache
+Y:\CloudStation\Master\1. Semester\IEG1\Projekt\SolHandelsplattform V.01\ProductCatalogeLocal\obj\Release\netcoreapp2.0\ProductCatalogeLocal.csproj.CoreCompileInputs.cache
+Y:\CloudStation\Master\1. Semester\IEG1\Projekt\SolHandelsplattform V.01\ProductCatalogeLocal\obj\Release\netcoreapp2.0\ProductCatalogeLocal.AssemblyInfoInputs.cache
+Y:\CloudStation\Master\1. Semester\IEG1\Projekt\SolHandelsplattform V.01\ProductCatalogeLocal\obj\Release\netcoreapp2.0\ProductCatalogeLocal.AssemblyInfo.cs
+Y:\CloudStation\Master\1. Semester\IEG1\Projekt\SolHandelsplattform V.01\ProductCatalogeLocal\obj\Release\netcoreapp2.0\ProductCatalogeLocal.dll
+Y:\CloudStation\Master\1. Semester\IEG1\Projekt\SolHandelsplattform V.01\ProductCatalogeLocal\obj\Release\netcoreapp2.0\ProductCatalogeLocal.pdb
