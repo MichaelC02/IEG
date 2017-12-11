@@ -7,7 +7,7 @@ using ProductCatalogeLocal.Models;
 
 namespace ProductCatalogeLocal.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/Products")]
     public class ProductsController : Controller
     {
         // GET api/values
@@ -15,7 +15,15 @@ namespace ProductCatalogeLocal.Controllers
         public List<string> Get()
         {
             var repo = new ProductRepository();
-            return repo.GetAll();
+            List<Product> all = repo.GetAll();
+            List<string> productNames = new List<string>();
+
+            foreach(Product p in all)
+            {
+                productNames.Add(p.ProductName);
+            }
+
+            return productNames;
         }
     }
 }

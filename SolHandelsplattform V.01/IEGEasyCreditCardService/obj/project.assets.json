@@ -12656,11 +12656,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "Y:\\CloudStation\\Master\\1. Semester\\IEG1\\Projekt\\SolHandelsplattform V.01\\IEGEasyCreditCardService\\IEGEasyCreditCardService.csproj",
+      "projectUniqueName": "Y:\\GitHub\\IEG\\SolHandelsplattform V.01\\IEGEasyCreditCardService\\IEGEasyCreditCardService.csproj",
       "projectName": "IEGEasyCreditCardService",
-      "projectPath": "Y:\\CloudStation\\Master\\1. Semester\\IEG1\\Projekt\\SolHandelsplattform V.01\\IEGEasyCreditCardService\\IEGEasyCreditCardService.csproj",
+      "projectPath": "Y:\\GitHub\\IEG\\SolHandelsplattform V.01\\IEGEasyCreditCardService\\IEGEasyCreditCardService.csproj",
       "packagesPath": "C:\\Users\\Michael\\.nuget\\packages\\",
-      "outputPath": "Y:\\CloudStation\\Master\\1. Semester\\IEG1\\Projekt\\SolHandelsplattform V.01\\IEGEasyCreditCardService\\obj\\",
+      "outputPath": "Y:\\GitHub\\IEG\\SolHandelsplattform V.01\\IEGEasyCreditCardService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

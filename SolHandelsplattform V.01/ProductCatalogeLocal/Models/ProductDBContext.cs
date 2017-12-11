@@ -12,13 +12,13 @@ namespace ProductCatalogeLocal.Models
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=ProductsDB;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=True;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
+            optionsBuilder.UseSqlServer(@"Data Source=dbsrv-marolt.database.windows.net;Initial Catalog=ProductCatalogeDb;Persist Security Info=True;User ID=db-admin;Password=IEG=shit");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Product>().ToTable("Products");
-            modelBuilder.Entity<product>().Property(a => a.Partei).IsRequired();
+            modelBuilder.Entity<Product>().Property(a => a.ProductName).IsRequired();
         }
     }
 }

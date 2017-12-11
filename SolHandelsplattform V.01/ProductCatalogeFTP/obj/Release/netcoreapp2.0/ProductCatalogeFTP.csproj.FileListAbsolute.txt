@@ -1,0 +1,10 @@
+Y:\GitHub\IEG\SolHandelsplattform V.01\ProductCatalogeFTP\obj\Release\netcoreapp2.0\ProductCatalogeFTP.csproj.CoreCompileInputs.cache
+Y:\GitHub\IEG\SolHandelsplattform V.01\ProductCatalogeFTP\obj\Release\netcoreapp2.0\ProductCatalogeFTP.AssemblyInfoInputs.cache
+Y:\GitHub\IEG\SolHandelsplattform V.01\ProductCatalogeFTP\obj\Release\netcoreapp2.0\ProductCatalogeFTP.AssemblyInfo.cs
+Y:\GitHub\IEG\SolHandelsplattform V.01\ProductCatalogeFTP\bin\Release\netcoreapp2.0\ProductCatalogeFTP.deps.json
+Y:\GitHub\IEG\SolHandelsplattform V.01\ProductCatalogeFTP\bin\Release\netcoreapp2.0\ProductCatalogeFTP.runtimeconfig.json
+Y:\GitHub\IEG\SolHandelsplattform V.01\ProductCatalogeFTP\bin\Release\netcoreapp2.0\ProductCatalogeFTP.runtimeconfig.dev.json
+Y:\GitHub\IEG\SolHandelsplattform V.01\ProductCatalogeFTP\bin\Release\netcoreapp2.0\ProductCatalogeFTP.dll
+Y:\GitHub\IEG\SolHandelsplattform V.01\ProductCatalogeFTP\bin\Release\netcoreapp2.0\ProductCatalogeFTP.pdb
+Y:\GitHub\IEG\SolHandelsplattform V.01\ProductCatalogeFTP\obj\Release\netcoreapp2.0\ProductCatalogeFTP.dll
+Y:\GitHub\IEG\SolHandelsplattform V.01\ProductCatalogeFTP\obj\Release\netcoreapp2.0\ProductCatalogeFTP.pdb

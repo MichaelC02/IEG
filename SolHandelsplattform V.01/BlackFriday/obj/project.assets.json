@@ -13261,11 +13261,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "Y:\\CloudStation\\Master\\1. Semester\\IEG1\\Projekt\\SolHandelsplattform V.01\\BlackFriday\\BlackFriday.csproj",
+      "projectUniqueName": "Y:\\GitHub\\IEG\\SolHandelsplattform V.01\\BlackFriday\\BlackFriday.csproj",
       "projectName": "BlackFriday",
-      "projectPath": "Y:\\CloudStation\\Master\\1. Semester\\IEG1\\Projekt\\SolHandelsplattform V.01\\BlackFriday\\BlackFriday.csproj",
+      "projectPath": "Y:\\GitHub\\IEG\\SolHandelsplattform V.01\\BlackFriday\\BlackFriday.csproj",
       "packagesPath": "C:\\Users\\Michael\\.nuget\\packages\\",
-      "outputPath": "Y:\\CloudStation\\Master\\1. Semester\\IEG1\\Projekt\\SolHandelsplattform V.01\\BlackFriday\\obj\\",
+      "outputPath": "Y:\\GitHub\\IEG\\SolHandelsplattform V.01\\BlackFriday\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,5 +1,5 @@
-Y:\CloudStation\Master\1. Semester\IEG1\Projekt\SolHandelsplattform V.01\BlackFriday
+Y:\GitHub\IEG\SolHandelsplattform V.01\BlackFriday
 --output-path=obj\Release\netcoreapp2.0\
 --application-name=BlackFriday
---content-root=Y:\CloudStation\Master\1. Semester\IEG1\Projekt\SolHandelsplattform V.01\BlackFriday
+--content-root=Y:\GitHub\IEG\SolHandelsplattform V.01\BlackFriday
 --file=

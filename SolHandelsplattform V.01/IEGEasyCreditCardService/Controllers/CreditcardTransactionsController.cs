@@ -11,7 +11,7 @@ using IEGEasyCreditCardService.Models;
 
 namespace IEGEasyCreditCardService.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/CreditcardTransactions")]
     public class CreditcardTransactionsController : Controller
     {
         private readonly ILogger<CreditcardTransactionsController> _logger;

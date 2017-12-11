@@ -8,6 +8,10 @@ using Microsoft.Extensions.Logging;
 using BlackFriday.Models;
 using System.Net.Http.Headers;
 using System.Net.Http;
+using System.Net;
+using System.IO;
+using Newtonsoft.Json;
+using Microsoft.ApplicationInsights;
 
 namespace BlackFriday.Controllers
 {
@@ -15,21 +19,72 @@ namespace BlackFriday.Controllers
     [Route("api/CashDesk")]
     public class CashDeskController : Controller
     {
+        private TelemetryClient telemetry = new TelemetryClient();
 
         private readonly ILogger<CashDeskController> _logger;
-        private static readonly string creditcardServiceBaseAddress="http://iegeasycreditcardservice.azurewebsites.net/";
+        private static readonly string creditcardServiceBaseAddress= "http://iegeasycreditcardservice-marolt.azurewebsites.net/";
 
         public CashDeskController(ILogger<CashDeskController> logger)
         {
             _logger = logger;
         }
         [HttpGet]
-        public IEnumerable<string> Get()
+        public List<string> Get()
         {
 
-            return new string[] { "value1", "value2" };
+            //return new string[] { "value1", "value2" };
+
+            List<string> result = new List<string>();
+
+            bool success = false;
+
+            WebResponse response = null;
+            for (int i=1; i<=3; i++)
+            {
+                WebRequest request = WebRequest.Create("http://iegeasycreditcardservice-marolt" + i + ".azurewebsites.net/api/acceptedcreditcards/");
+                response = ExecRequest(request);
+                if (response != null)
+                {
+                    success = true;
+                    break;
+                }
+            }
+
+            if (!success)
+                return null;
+            
+            StreamReader reader = new StreamReader(response.GetResponseStream());
+            string line = reader.ReadLine();
+            return JsonConvert.DeserializeObject<string[]>(line).ToList<string>();
+
+         
         }
-        [HttpGet]
+
+        private WebResponse ExecRequest(WebRequest req)
+        {
+            int maxTrys = 5;
+
+            for (int i = 0; i < maxTrys; i++)
+            {
+                try
+                {
+                    return req.GetResponse();
+                }
+                catch(Exception e)
+                {
+                    //System.Diagnostics.Trace.TraceError("ErrorOccurred: "+e.Message);
+                    telemetry.TrackException(e);
+                    System.Threading.Thread.Sleep(1000);
+                    continue;
+                }
+            }
+
+            return null;
+        }
+
+     
+
+        [HttpGet("{id}")]
         public string Get(int id)
         {
 

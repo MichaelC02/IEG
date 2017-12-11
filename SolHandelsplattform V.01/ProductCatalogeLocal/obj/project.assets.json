@@ -12542,11 +12542,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "Y:\\CloudStation\\Master\\1. Semester\\IEG1\\Projekt\\SolHandelsplattform V.01\\ProductCatalogeLocal\\ProductCatalogeLocal.csproj",
+      "projectUniqueName": "Y:\\GitHub\\IEG\\SolHandelsplattform V.01\\ProductCatalogeLocal\\ProductCatalogeLocal.csproj",
       "projectName": "ProductCatalogeLocal",
-      "projectPath": "Y:\\CloudStation\\Master\\1. Semester\\IEG1\\Projekt\\SolHandelsplattform V.01\\ProductCatalogeLocal\\ProductCatalogeLocal.csproj",
+      "projectPath": "Y:\\GitHub\\IEG\\SolHandelsplattform V.01\\ProductCatalogeLocal\\ProductCatalogeLocal.csproj",
       "packagesPath": "C:\\Users\\Michael\\.nuget\\packages\\",
-      "outputPath": "Y:\\CloudStation\\Master\\1. Semester\\IEG1\\Projekt\\SolHandelsplattform V.01\\ProductCatalogeLocal\\obj\\",
+      "outputPath": "Y:\\GitHub\\IEG\\SolHandelsplattform V.01\\ProductCatalogeLocal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

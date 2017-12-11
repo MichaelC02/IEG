@@ -1,5 +1,5 @@
-C:\IEG2017\Handelsplattform\SolHandelsplattform\IEGEasyCreditCardService
+Y:\GitHub\IEG\SolHandelsplattform V.01\IEGEasyCreditCardService
 --output-path=obj\Release\netcoreapp2.0\
 --application-name=IEGEasyCreditCardService
---content-root=C:\IEG2017\Handelsplattform\SolHandelsplattform\IEGEasyCreditCardService
+--content-root=Y:\GitHub\IEG\SolHandelsplattform V.01\IEGEasyCreditCardService
 --file=

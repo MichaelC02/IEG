@@ -1,0 +1,5 @@
+Y:\GitHub\IEG\SolHandelsplattform V.01\ProductCatalogeFTP
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=ProductCatalogeFTP
+--content-root=Y:\GitHub\IEG\SolHandelsplattform V.01\ProductCatalogeFTP
+--file=

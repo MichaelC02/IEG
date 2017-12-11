@@ -9,3 +9,14 @@ C:\IEG2017\Handelsplattform\SolHandelsplattform\IEGEasyCreditCardService\obj\Rel
 C:\IEG2017\Handelsplattform\SolHandelsplattform\IEGEasyCreditCardService\obj\Release\netcoreapp2.0\IEGEasyCreditCardService.dll
 C:\IEG2017\Handelsplattform\SolHandelsplattform\IEGEasyCreditCardService\obj\Release\netcoreapp2.0\IEGEasyCreditCardService.pdb
 C:\IEG2017\Handelsplattform\SolHandelsplattform\IEGEasyCreditCardService\obj\Release\netcoreapp2.0\IEGEasyCreditCardService.csprojResolveAssemblyReference.cache
+Y:\GitHub\IEG\SolHandelsplattform V.01\IEGEasyCreditCardService\bin\Release\netcoreapp2.0\IEGEasyCreditCardService.deps.json
+Y:\GitHub\IEG\SolHandelsplattform V.01\IEGEasyCreditCardService\bin\Release\netcoreapp2.0\IEGEasyCreditCardService.runtimeconfig.json
+Y:\GitHub\IEG\SolHandelsplattform V.01\IEGEasyCreditCardService\bin\Release\netcoreapp2.0\IEGEasyCreditCardService.runtimeconfig.dev.json
+Y:\GitHub\IEG\SolHandelsplattform V.01\IEGEasyCreditCardService\bin\Release\netcoreapp2.0\IEGEasyCreditCardService.dll
+Y:\GitHub\IEG\SolHandelsplattform V.01\IEGEasyCreditCardService\bin\Release\netcoreapp2.0\IEGEasyCreditCardService.pdb
+Y:\GitHub\IEG\SolHandelsplattform V.01\IEGEasyCreditCardService\obj\Release\netcoreapp2.0\IEGEasyCreditCardService.csprojResolveAssemblyReference.cache
+Y:\GitHub\IEG\SolHandelsplattform V.01\IEGEasyCreditCardService\obj\Release\netcoreapp2.0\IEGEasyCreditCardService.csproj.CoreCompileInputs.cache
+Y:\GitHub\IEG\SolHandelsplattform V.01\IEGEasyCreditCardService\obj\Release\netcoreapp2.0\IEGEasyCreditCardService.AssemblyInfoInputs.cache
+Y:\GitHub\IEG\SolHandelsplattform V.01\IEGEasyCreditCardService\obj\Release\netcoreapp2.0\IEGEasyCreditCardService.AssemblyInfo.cs
+Y:\GitHub\IEG\SolHandelsplattform V.01\IEGEasyCreditCardService\obj\Release\netcoreapp2.0\IEGEasyCreditCardService.dll
+Y:\GitHub\IEG\SolHandelsplattform V.01\IEGEasyCreditCardService\obj\Release\netcoreapp2.0\IEGEasyCreditCardService.pdb
