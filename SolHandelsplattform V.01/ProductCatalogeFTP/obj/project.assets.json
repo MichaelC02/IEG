@@ -12560,7 +12560,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Users\\Michael\\Downloads\\nuget-pakete": {}
       },
       "frameworks": {
         "netcoreapp2.0": {

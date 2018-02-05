@@ -1,0 +1,11 @@
+Y:\GitHub\IEG\SolHandelsplattform V.01\DiscoveryService\bin\Release\netcoreapp2.0\DiscoveryService.deps.json
+Y:\GitHub\IEG\SolHandelsplattform V.01\DiscoveryService\bin\Release\netcoreapp2.0\DiscoveryService.runtimeconfig.json
+Y:\GitHub\IEG\SolHandelsplattform V.01\DiscoveryService\bin\Release\netcoreapp2.0\DiscoveryService.runtimeconfig.dev.json
+Y:\GitHub\IEG\SolHandelsplattform V.01\DiscoveryService\bin\Release\netcoreapp2.0\DiscoveryService.dll
+Y:\GitHub\IEG\SolHandelsplattform V.01\DiscoveryService\bin\Release\netcoreapp2.0\DiscoveryService.pdb
+Y:\GitHub\IEG\SolHandelsplattform V.01\DiscoveryService\obj\Release\netcoreapp2.0\DiscoveryService.csprojResolveAssemblyReference.cache
+Y:\GitHub\IEG\SolHandelsplattform V.01\DiscoveryService\obj\Release\netcoreapp2.0\DiscoveryService.csproj.CoreCompileInputs.cache
+Y:\GitHub\IEG\SolHandelsplattform V.01\DiscoveryService\obj\Release\netcoreapp2.0\DiscoveryService.AssemblyInfoInputs.cache
+Y:\GitHub\IEG\SolHandelsplattform V.01\DiscoveryService\obj\Release\netcoreapp2.0\DiscoveryService.AssemblyInfo.cs
+Y:\GitHub\IEG\SolHandelsplattform V.01\DiscoveryService\obj\Release\netcoreapp2.0\DiscoveryService.dll
+Y:\GitHub\IEG\SolHandelsplattform V.01\DiscoveryService\obj\Release\netcoreapp2.0\DiscoveryService.pdb

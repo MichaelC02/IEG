@@ -1,0 +1,11 @@
+Y:\GitHub\IEG\SolHandelsplattform V.01\PaymentService\bin\Debug\netcoreapp2.0\PaymentService.deps.json
+Y:\GitHub\IEG\SolHandelsplattform V.01\PaymentService\bin\Debug\netcoreapp2.0\PaymentService.runtimeconfig.json
+Y:\GitHub\IEG\SolHandelsplattform V.01\PaymentService\bin\Debug\netcoreapp2.0\PaymentService.runtimeconfig.dev.json
+Y:\GitHub\IEG\SolHandelsplattform V.01\PaymentService\bin\Debug\netcoreapp2.0\PaymentService.dll
+Y:\GitHub\IEG\SolHandelsplattform V.01\PaymentService\bin\Debug\netcoreapp2.0\PaymentService.pdb
+Y:\GitHub\IEG\SolHandelsplattform V.01\PaymentService\obj\Debug\netcoreapp2.0\PaymentService.csprojResolveAssemblyReference.cache
+Y:\GitHub\IEG\SolHandelsplattform V.01\PaymentService\obj\Debug\netcoreapp2.0\PaymentService.csproj.CoreCompileInputs.cache
+Y:\GitHub\IEG\SolHandelsplattform V.01\PaymentService\obj\Debug\netcoreapp2.0\PaymentService.AssemblyInfoInputs.cache
+Y:\GitHub\IEG\SolHandelsplattform V.01\PaymentService\obj\Debug\netcoreapp2.0\PaymentService.AssemblyInfo.cs
+Y:\GitHub\IEG\SolHandelsplattform V.01\PaymentService\obj\Debug\netcoreapp2.0\PaymentService.dll
+Y:\GitHub\IEG\SolHandelsplattform V.01\PaymentService\obj\Debug\netcoreapp2.0\PaymentService.pdb

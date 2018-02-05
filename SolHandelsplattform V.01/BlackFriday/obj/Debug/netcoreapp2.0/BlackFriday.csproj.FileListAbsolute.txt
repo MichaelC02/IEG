@@ -19,3 +19,9 @@ Y:\CloudStation\Master\1. Semester\IEG1\Projekt\SolHandelsplattform V.01\BlackFr
 Y:\CloudStation\Master\1. Semester\IEG1\Projekt\SolHandelsplattform V.01\BlackFriday\obj\Debug\netcoreapp2.0\BlackFriday.AssemblyInfo.cs
 Y:\CloudStation\Master\1. Semester\IEG1\Projekt\SolHandelsplattform V.01\BlackFriday\obj\Debug\netcoreapp2.0\BlackFriday.dll
 Y:\CloudStation\Master\1. Semester\IEG1\Projekt\SolHandelsplattform V.01\BlackFriday\obj\Debug\netcoreapp2.0\BlackFriday.pdb
+Y:\GitHub\IEG\SolHandelsplattform V.01\BlackFriday\obj\Debug\netcoreapp2.0\BlackFriday.csprojResolveAssemblyReference.cache
+Y:\GitHub\IEG\SolHandelsplattform V.01\BlackFriday\obj\Debug\netcoreapp2.0\BlackFriday.csproj.CoreCompileInputs.cache
+Y:\GitHub\IEG\SolHandelsplattform V.01\BlackFriday\obj\Debug\netcoreapp2.0\BlackFriday.AssemblyInfoInputs.cache
+Y:\GitHub\IEG\SolHandelsplattform V.01\BlackFriday\obj\Debug\netcoreapp2.0\BlackFriday.AssemblyInfo.cs
+Y:\GitHub\IEG\SolHandelsplattform V.01\BlackFriday\obj\Debug\netcoreapp2.0\BlackFriday.dll
+Y:\GitHub\IEG\SolHandelsplattform V.01\BlackFriday\obj\Debug\netcoreapp2.0\BlackFriday.pdb

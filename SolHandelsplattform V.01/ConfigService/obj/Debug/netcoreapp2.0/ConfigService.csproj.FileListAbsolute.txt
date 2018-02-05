@@ -1,0 +1,11 @@
+Y:\GitHub\IEG\SolHandelsplattform V.01\ConfigService\obj\Debug\netcoreapp2.0\ConfigService.csprojResolveAssemblyReference.cache
+Y:\GitHub\IEG\SolHandelsplattform V.01\ConfigService\obj\Debug\netcoreapp2.0\ConfigService.csproj.CoreCompileInputs.cache
+Y:\GitHub\IEG\SolHandelsplattform V.01\ConfigService\obj\Debug\netcoreapp2.0\ConfigService.AssemblyInfoInputs.cache
+Y:\GitHub\IEG\SolHandelsplattform V.01\ConfigService\obj\Debug\netcoreapp2.0\ConfigService.AssemblyInfo.cs
+Y:\GitHub\IEG\SolHandelsplattform V.01\ConfigService\bin\Debug\netcoreapp2.0\ConfigService.deps.json
+Y:\GitHub\IEG\SolHandelsplattform V.01\ConfigService\bin\Debug\netcoreapp2.0\ConfigService.runtimeconfig.json
+Y:\GitHub\IEG\SolHandelsplattform V.01\ConfigService\bin\Debug\netcoreapp2.0\ConfigService.runtimeconfig.dev.json
+Y:\GitHub\IEG\SolHandelsplattform V.01\ConfigService\bin\Debug\netcoreapp2.0\ConfigService.dll
+Y:\GitHub\IEG\SolHandelsplattform V.01\ConfigService\bin\Debug\netcoreapp2.0\ConfigService.pdb
+Y:\GitHub\IEG\SolHandelsplattform V.01\ConfigService\obj\Debug\netcoreapp2.0\ConfigService.dll
+Y:\GitHub\IEG\SolHandelsplattform V.01\ConfigService\obj\Debug\netcoreapp2.0\ConfigService.pdb

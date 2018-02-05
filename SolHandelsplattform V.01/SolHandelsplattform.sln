@@ -11,7 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductCatalogeLocal", "Pro
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductCatalogeFTP", "ProductCatalogeFTP\ProductCatalogeFTP.csproj", "{FA3EB379-4985-4E51-A56C-3714485275E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentService", "PaymentService\PaymentService.csproj", "{54582DF0-B947-4CD6-8FB5-97CF4BB143F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaymentService", "PaymentService\PaymentService.csproj", "{54582DF0-B947-4CD6-8FB5-97CF4BB143F3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiscoveryClientService", "DiscoveryService\DiscoveryClientService.csproj", "{7F47F508-BCB9-4205-BD38-B90CCD997648}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigService", "ConfigService\ConfigService.csproj", "{8D4138B8-B59B-4D53-ADDB-522F5FA0192C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IEGEasyCreditCardService2", "IEGEasyCreditCardService2\IEGEasyCreditCardService2.csproj", "{94D5AB07-547E-4955-A4B8-04CDC8CCD88D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +45,18 @@ Global
 		{54582DF0-B947-4CD6-8FB5-97CF4BB143F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54582DF0-B947-4CD6-8FB5-97CF4BB143F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54582DF0-B947-4CD6-8FB5-97CF4BB143F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F47F508-BCB9-4205-BD38-B90CCD997648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F47F508-BCB9-4205-BD38-B90CCD997648}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F47F508-BCB9-4205-BD38-B90CCD997648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F47F508-BCB9-4205-BD38-B90CCD997648}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D4138B8-B59B-4D53-ADDB-522F5FA0192C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D4138B8-B59B-4D53-ADDB-522F5FA0192C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D4138B8-B59B-4D53-ADDB-522F5FA0192C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D4138B8-B59B-4D53-ADDB-522F5FA0192C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94D5AB07-547E-4955-A4B8-04CDC8CCD88D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94D5AB07-547E-4955-A4B8-04CDC8CCD88D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94D5AB07-547E-4955-A4B8-04CDC8CCD88D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94D5AB07-547E-4955-A4B8-04CDC8CCD88D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

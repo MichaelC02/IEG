@@ -9,6 +9,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Swashbuckle.AspNetCore.Swagger;
+using Consul;
 
 namespace IEGEasyCreditCardService
 {
@@ -30,6 +31,24 @@ namespace IEGEasyCreditCardService
             {
                 c.SwaggerDoc("v1", new Info { Title = "IEGEasyCreditCardService API", Version = "v1" });
             });
+
+
+            RegisterService();
+        }
+
+        public static async void RegisterService()
+        {
+            var client = new ConsulClient(); // uses default host:port which is localhost:8500
+
+            var agentReg = new AgentServiceRegistration()
+            {
+                Address = "localhost",
+                ID = "1",
+                Name = "IEGEasyCreditCardService",
+                Port = 56094
+            };
+
+            await client.Agent.ServiceRegister(agentReg);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

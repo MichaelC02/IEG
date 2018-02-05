@@ -15,7 +15,7 @@ namespace IEGEasyCreditCardService.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "American", "Diners", "Master","Visa", "Black Friday" };
+            return new string[] { "American", "Diners", "Master", "Visa", "Black Friday" };
         }
 
        
