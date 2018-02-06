@@ -21,11 +21,11 @@ namespace DiscoveryService.Controllers
             WebResponse response = request.GetResponse();
             StreamReader reader = new StreamReader(response.GetResponseStream());
             string line = reader.ReadLine();
-            List<string> consulAdress = JsonConvert.DeserializeObject<string[]>(line).ToList<string>();
+            //List<string> consulAdress = JsonConvert.DeserializeObject<string[]>(line).ToList<string>();
             
             
             List<Uri> serverUrls = new List<Uri>();
-            var consulClient = new ConsulClient(c => c.Address = new Uri("http://127.0.0.1:8500"));
+            var consulClient = new ConsulClient(c => c.Address = new Uri(line));
             var services = consulClient.Agent.Services().Result.Response;
 
             foreach (var service in services)
