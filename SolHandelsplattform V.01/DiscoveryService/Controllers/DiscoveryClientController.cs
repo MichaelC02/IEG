@@ -33,7 +33,8 @@ namespace DiscoveryService.Controllers
                 var isMyService = service.Value.Service.ToString().Equals("IEGEasyCreditCardService");
                 if (isMyService)
                 {
-                    string uri = "http://" + service.Value.Address.ToString() + ":" + service.Value.Port.ToString() + "/" + "api/AcceptedCreditCards";
+                    string uri = "http://" + service.Value.Address.ToString() + ":" 
+                                 + service.Value.Port.ToString() + "/" + "api/AcceptedCreditCards";
                     var serviceUri = new Uri(uri);
 
                     request = WebRequest.Create(serviceUri);
@@ -43,7 +44,6 @@ namespace DiscoveryService.Controllers
                     return JsonConvert.DeserializeObject<string[]>(line).ToList<string>();
                 }
             }
-
             return null;
         }
 
