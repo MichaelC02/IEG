@@ -27,7 +27,8 @@
           "Microsoft.AspNetCore.All": "2.0.0",
           "Microsoft.NETCore.App": "2.0.0",
           "Newtonsoft.Json": "10.0.3",
-          "Swashbuckle.AspNetCore": "1.1.0"
+          "Swashbuckle.AspNetCore": "1.1.0",
+          "System.Net.Http.WinHttpHandler": "4.4.0"
         },
         "runtime": {
           "IEGEasyCreditCardService.dll": {}

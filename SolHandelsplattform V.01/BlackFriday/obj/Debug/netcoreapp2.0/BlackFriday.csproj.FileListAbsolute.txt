@@ -25,3 +25,8 @@ Y:\GitHub\IEG\SolHandelsplattform V.01\BlackFriday\obj\Debug\netcoreapp2.0\Black
 Y:\GitHub\IEG\SolHandelsplattform V.01\BlackFriday\obj\Debug\netcoreapp2.0\BlackFriday.AssemblyInfo.cs
 Y:\GitHub\IEG\SolHandelsplattform V.01\BlackFriday\obj\Debug\netcoreapp2.0\BlackFriday.dll
 Y:\GitHub\IEG\SolHandelsplattform V.01\BlackFriday\obj\Debug\netcoreapp2.0\BlackFriday.pdb
+Y:\GitHub\IEG\SolHandelsplattform V.01\BlackFriday\bin\Debug\netcoreapp2.0\BlackFriday.deps.json
+Y:\GitHub\IEG\SolHandelsplattform V.01\BlackFriday\bin\Debug\netcoreapp2.0\BlackFriday.runtimeconfig.json
+Y:\GitHub\IEG\SolHandelsplattform V.01\BlackFriday\bin\Debug\netcoreapp2.0\BlackFriday.runtimeconfig.dev.json
+Y:\GitHub\IEG\SolHandelsplattform V.01\BlackFriday\bin\Debug\netcoreapp2.0\BlackFriday.dll
+Y:\GitHub\IEG\SolHandelsplattform V.01\BlackFriday\bin\Debug\netcoreapp2.0\BlackFriday.pdb

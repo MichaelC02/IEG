@@ -1,0 +1,11 @@
+Y:\GitHub\IEG\SolHandelsplattform V.01\SecurityTokenService\bin\Debug\netcoreapp2.0\SecurityTokenService.deps.json
+Y:\GitHub\IEG\SolHandelsplattform V.01\SecurityTokenService\bin\Debug\netcoreapp2.0\SecurityTokenService.runtimeconfig.json
+Y:\GitHub\IEG\SolHandelsplattform V.01\SecurityTokenService\bin\Debug\netcoreapp2.0\SecurityTokenService.runtimeconfig.dev.json
+Y:\GitHub\IEG\SolHandelsplattform V.01\SecurityTokenService\bin\Debug\netcoreapp2.0\SecurityTokenService.dll
+Y:\GitHub\IEG\SolHandelsplattform V.01\SecurityTokenService\bin\Debug\netcoreapp2.0\SecurityTokenService.pdb
+Y:\GitHub\IEG\SolHandelsplattform V.01\SecurityTokenService\obj\Debug\netcoreapp2.0\SecurityTokenService.csprojResolveAssemblyReference.cache
+Y:\GitHub\IEG\SolHandelsplattform V.01\SecurityTokenService\obj\Debug\netcoreapp2.0\SecurityTokenService.csproj.CoreCompileInputs.cache
+Y:\GitHub\IEG\SolHandelsplattform V.01\SecurityTokenService\obj\Debug\netcoreapp2.0\SecurityTokenService.AssemblyInfoInputs.cache
+Y:\GitHub\IEG\SolHandelsplattform V.01\SecurityTokenService\obj\Debug\netcoreapp2.0\SecurityTokenService.AssemblyInfo.cs
+Y:\GitHub\IEG\SolHandelsplattform V.01\SecurityTokenService\obj\Debug\netcoreapp2.0\SecurityTokenService.dll
+Y:\GitHub\IEG\SolHandelsplattform V.01\SecurityTokenService\obj\Debug\netcoreapp2.0\SecurityTokenService.pdb

@@ -4749,6 +4749,23 @@
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
       },
+      "Vault/0.9.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.WebUtilities": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection": "1.0.0",
+          "Microsoft.Extensions.Options": "1.0.0",
+          "NETStandard.Library": "1.6.1",
+          "NewtonSoft.Json": "10.0.3",
+          "System.Collections.Specialized": "4.3.0"
+        },
+        "compile": {
+          "lib/netstandard1.3/Vault.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.3/Vault.dll": {}
+        }
+      },
       "WindowsAzure.Storage/8.1.4": {
         "type": "package",
         "dependencies": {
@@ -12568,6 +12585,16 @@
         "system.xml.xpath.xdocument.nuspec"
       ]
     },
+    "Vault/0.9.1": {
+      "sha512": "IlkRFR+7fIyM7lHjm64pyxSFqys7MMXYdpb5RF3iVgIoiELGCNptnu6JA247NSIaBImFoUm17mk61+pGkPQaLg==",
+      "type": "package",
+      "path": "vault/0.9.1",
+      "files": [
+        "lib/netstandard1.3/Vault.dll",
+        "vault.0.9.1.nupkg.sha512",
+        "vault.nuspec"
+      ]
+    },
     "WindowsAzure.Storage/8.1.4": {
       "sha512": "W6ZZ0/o7+3Qb77mRAQyLjPudHG3OMeeQ4p9yY13PUdJArmRCx2cLMm5F4tpIjJXxzHC0ew0oK7DMDGILMdfCnw==",
       "type": "package",
@@ -12597,7 +12624,8 @@
       "Microsoft.AspNetCore.All >= 2.0.0",
       "Microsoft.NETCore.App >= 2.0.0",
       "Newtonsoft.Json >= 10.0.3",
-      "System.Net.Http.WinHttpHandler >= 4.4.0"
+      "System.Net.Http.WinHttpHandler >= 4.4.0",
+      "Vault >= 0.9.1"
     ]
   },
   "packageFolders": {
@@ -12628,7 +12656,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\Michael\\Downloads\\nuget-pakete": {}
+        "C:\\Users\\Michael\\Downloads\\nuget-pakete": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
@@ -12647,6 +12676,10 @@
           "Consul": {
             "target": "Package",
             "version": "0.7.2.4"
+          },
+          "Vault": {
+            "target": "Package",
+            "version": "0.9.1"
           },
           "Microsoft.NETCore.App": {
             "target": "Package",

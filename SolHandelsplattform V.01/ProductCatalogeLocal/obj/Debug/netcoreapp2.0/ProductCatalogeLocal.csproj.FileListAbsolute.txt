@@ -1,0 +1,11 @@
+Y:\GitHub\IEG\SolHandelsplattform V.01\ProductCatalogeLocal\bin\Debug\netcoreapp2.0\ProductCatalogeLocal.deps.json
+Y:\GitHub\IEG\SolHandelsplattform V.01\ProductCatalogeLocal\bin\Debug\netcoreapp2.0\ProductCatalogeLocal.runtimeconfig.json
+Y:\GitHub\IEG\SolHandelsplattform V.01\ProductCatalogeLocal\bin\Debug\netcoreapp2.0\ProductCatalogeLocal.runtimeconfig.dev.json
+Y:\GitHub\IEG\SolHandelsplattform V.01\ProductCatalogeLocal\bin\Debug\netcoreapp2.0\ProductCatalogeLocal.dll
+Y:\GitHub\IEG\SolHandelsplattform V.01\ProductCatalogeLocal\bin\Debug\netcoreapp2.0\ProductCatalogeLocal.pdb
+Y:\GitHub\IEG\SolHandelsplattform V.01\ProductCatalogeLocal\obj\Debug\netcoreapp2.0\ProductCatalogeLocal.csprojResolveAssemblyReference.cache
+Y:\GitHub\IEG\SolHandelsplattform V.01\ProductCatalogeLocal\obj\Debug\netcoreapp2.0\ProductCatalogeLocal.csproj.CoreCompileInputs.cache
+Y:\GitHub\IEG\SolHandelsplattform V.01\ProductCatalogeLocal\obj\Debug\netcoreapp2.0\ProductCatalogeLocal.AssemblyInfoInputs.cache
+Y:\GitHub\IEG\SolHandelsplattform V.01\ProductCatalogeLocal\obj\Debug\netcoreapp2.0\ProductCatalogeLocal.AssemblyInfo.cs
+Y:\GitHub\IEG\SolHandelsplattform V.01\ProductCatalogeLocal\obj\Debug\netcoreapp2.0\ProductCatalogeLocal.dll
+Y:\GitHub\IEG\SolHandelsplattform V.01\ProductCatalogeLocal\obj\Debug\netcoreapp2.0\ProductCatalogeLocal.pdb
